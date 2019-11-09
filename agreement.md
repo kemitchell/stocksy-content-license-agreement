@@ -47,47 +47,47 @@ Allows for the use of Content in a way that would otherwise be prohibited or res
 
 Without limiting any previously mentioned restrictions, the Client acknowledges and agrees that they will not do any of the following, unless Client has contacted support@stocksy.com and arranged specific terms in writing and signed by both parties:
 
-### TODO
+### Unauthorized Use
 
 sell, sublicense, assign, convey, share, or transfer any Content, in whole or in part, or rights thereto to any person or entity except as expressly permitted under this Agreement; or
 
-### TODO
+### Redistribute
 
 sell or distribute Content or Work containing Content in any way that allows the Content to be extracted, accessed, or downloaded as a stand-alone file; or
 
-### TODO
+### Disreputable Use
 
 use, reproduce, distribute, or display the Content in a way that is considered by Stocksy or under applicable law, to be considered pornographic, obscene, infringing, or defamatory in nature or that would be reasonably likely to bring any person or property reflected in the Content into disrepute; or
 
-### TODO
+### Unauthorized Multi-Seat
 
 without the purchase of a Multi-Seat Extended License, download or store the Content or allow access on more than one computer or in a library or content-management system; or
 
-### TODO
+### Print Run Limit
 
 without the purchase of an Unlimited Print Extended License, use Content in a print run over 500,000 copies; or
 
-### TODO
+### Unauthorized Product Resale
 
 without the purchase of a Products for Resale Extended License, use, reproduce, or distribute the Content in connection with any goods or services intended for resale or distribution where primary value lies in the Content itself; or
 
-### TODO
+### Trademarks
 
 incorporate the Content into a trade, design, or service mark; business name; or logo; or
 
-### TODO
+### Separate Audio Use
 
 make use of any audio that may, in some circumstances, accompany video content; or
 
-### TODO
+### Illegal Use
 
 take any action in connection with the Content that violates any law, regulation or statute in an applicable jurisdiction; or
 
-### TODO
+### Uncredited Use on Social Media
 
 post Content that has not been altered on social media or use the Content in an editorial manner without the following credit adjacent to the Content in print or in credits for audio/visual productions, including a link to www.stocksy.com where technically feasible: "© [Name of Member] / Stocksy United"; or
 
-### TODO
+### False Endorsement
 
 use Content in any way that suggests or implies that any individual in the Content is personally endorsing any product, service, idea, or site, including but not limited to attributing quotes to or creating fake online profiles for an individual including promotion or marketing materials (for example, on political materials or dating apps); or
 
